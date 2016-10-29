@@ -1,0 +1,15 @@
+Authomatic == 0.1.0.post1
+Flask == 0.10.1
+Flask_Login == 0.3.2
+gcloud == 0.12.1
+GeoAlchemy2 == 0.2.6
+itsdangerous == 0.24
+six == 1.9.0
+SQLAlchemy == 1.0.12
+Werkzeug == 0.11.3
+opengraph == 0.5
+beautifulsoup4==4.4.0
+micawber==0.3.3
+psycopg2 == 2.6.1
+gunicorn==19.4.5
+requests==2.7.0
